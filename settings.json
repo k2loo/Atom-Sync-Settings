@@ -1,0 +1,67 @@
+{
+	"atom-clock": {
+		"dateFormat": "dddd, DD/MM/YYYY, h:mm"
+	},
+	"autoclose-html": {
+		"forceInline": [
+			"title",
+			"h1",
+			"h2",
+			"h3",
+			"h4",
+			"h5",
+			"h6",
+			"td"
+		]
+	},
+	"core": {
+		"allowPendingPaneItems": false,
+		"autoHideMenuBar": true,
+		"closeDeletedFileTabs": true,
+		"disabledPackages": [
+			"atom-beautify",
+			"metrics",
+			"welcome"
+		],
+		"openEmptyEditorOnStart": false,
+		"telemetryConsent": "limited",
+		"themes": [
+			"dash-ui",
+			"dash-syntax"
+		]
+	},
+	"dash-ui": {
+		"iconsEnabled": false
+	},
+	"editor": {
+		"fontFamily": "roboto mono",
+		"fontSize": 15,
+		"preferredLineLength": 120,
+		"scrollPastEnd": true,
+		"softWrap": true,
+		"softWrapAtPreferredLineLength": true,
+		"softWrapHangingIndent": 1,
+		"tabLength": 3
+	},
+	"emmet": {},
+	"exception-reporting": {
+		"userId": "19ec2e70-de84-494b-9f37-a8581d58c502"
+	},
+	"file-icons": {},
+	"pigments": {
+		"markerType": "native-dot"
+	},
+	"sublime-block-comment": {
+		"pad": true
+	},
+	"sync-settings": {},
+	"tree-view": {
+		"alwaysOpenExisting": true,
+		"autoReveal": true,
+		"hideIgnoredNames": true,
+		"hideVcsIgnoredFiles": true
+	},
+	"welcome": {
+		"showOnStartup": false
+	}
+}
